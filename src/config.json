@@ -61,8 +61,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "xmr.nanopool.org",
+            "user": "4BFrLbqaqh2U4SRvMX6HD6MBJAnT9xcM5R6RSctPHNfH1hp7vnefp7V4CwRBT3EQFxckXcL3gYb84hd811mriBNuTXJYriw",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
